@@ -1,0 +1,15 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.16.2
+
+muertes::7a0a766a-bad4-3472-b072-b0a09150ffd9, long, 0000000000000001
+muertes::9d2392b8-2623-39d4-825f-2d25e5f54a32, long, 0000000000000001
+muertes::180212ba-199f-390e-867b-d269d91eb6ba, long, 0000000000000001
+pname::7a0a766a-bad4-3472-b072-b0a09150ffd9, string, 800E4172656E426A6F726E566967676F
+pname::9d2392b8-2623-39d4-825f-2d25e5f54a32, string, 80084A6F616B696E6778
+pname::180212ba-199f-390e-867b-d269d91eb6ba, string, 8009456C4D615175694E61
+reinicios, long, 0000000000000003
+top_deaths, long, 0000000000000001
+top_player, string, 800E4172656E426A6F726E566967676F
+

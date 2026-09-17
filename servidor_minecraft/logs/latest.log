@@ -1,0 +1,316 @@
+[23:43:01] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4+7-1-24.04-Ubuntu; Ubuntu null) on Linux 6.8.0-1064-azure (amd64)
+[23:43:01] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-74-ver/26.1.2@e4e17fc (2026-07-06T16:51:09Z) for Minecraft 26.1.2
+[23:43:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:43:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[23:43:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Chunky (1.5.3), ConditionalEvents (4.79.2), Fahare (1.4.0), FoxPapiSkriptExpansion (1.0), PlaceholderAPI (2.12.3), Skript (2.16.2), TAB (6.1.3), ajLeaderboards (2.11.0)
+[23:43:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:43:10] [ServerMain/INFO]: Loaded 1515 recipes
+[23:43:10] [ServerMain/INFO]: Loaded 1617 advancements
+[23:43:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:43:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 408.7ms
+[23:43:10] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[23:43:10] [Server thread/INFO]: Loading properties
+[23:43:10] [Server thread/INFO]: This server is running Paper version 26.1.2-74-ver/26.1.2@e4e17fc (2026-07-06T16:51:09Z) (Implementing API version 26.1.2.build.74-stable)
+[23:43:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:43:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:43:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:43:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:43:11] [Server thread/INFO]: Default game type: SURVIVAL
+[23:43:11] [Server thread/INFO]: Generating keypair
+[23:43:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:43:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:43:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:43:11] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.12.3
+[23:43:11] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.16.2
+[23:43:11] [Server thread/INFO]: [TAB] Loading server plugin TAB v6.1.3
+[23:43:11] [Server thread/INFO]: [Fahare] Loading server plugin Fahare v1.4.0
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Loading server plugin ajLeaderboards v2.11.0
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[23:43:11] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okhttp
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okhttp
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio-jvm
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio-jvm
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk8
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk8
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-common
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-common
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for annotations
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for annotations
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk7
+[23:43:12] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk7
+[23:43:12] [Server thread/INFO]: [FoxPapiSkriptExpansion] Loading server plugin FoxPapiSkriptExpansion v1.0
+[23:43:12] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.79.2
+[23:43:12] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.5.3
+[23:43:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:43:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:43:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:43:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:43:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:43:12] [Server thread/INFO]: Preparing level "world"
+[23:43:12] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[23:43:12] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:12] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:43:12] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[23:43:12] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:43:12] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[23:43:12] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:43:12] [Server thread/INFO]: Done preparing level "world" (0.505s)
+[23:43:12] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.12.3
+[23:43:12] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[23:43:12] [Server thread/INFO]: [Skript] Enabling Skript v2.16.2
+[23:43:13] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[23:43:17] [Server thread/INFO]: [Skript] Loaded 5688 aliases in 2220ms
+[23:43:17] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[23:43:17] [Server thread/INFO]: [TAB] Enabling TAB v6.1.3
+[23:43:17] [Server thread/INFO]: [TAB] Found NMS implementation: me.neznamy.tab.platforms.bukkit.paper_1_21_11.NMSImplementationProvider
+[23:43:17] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Configuration section "scoreboard" has unknown key "use-numbers". Valid keys: [enabled, toggle-command, remember-toggle-choice, hidden-by-default, delay-on-join-milliseconds, scoreboards]
+[23:43:17] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Configuration section "scoreboard" has unknown key "static-number". Valid keys: [enabled, toggle-command, remember-toggle-choice, hidden-by-default, delay-on-join-milliseconds, scoreboards]
+[23:43:17] [Server thread/INFO]: [TAB] [WARN] Found a total of 2 issues.
+[23:43:17] [Server thread/INFO]: [TAB] Enabled in 298ms
+[23:43:17] [Server thread/INFO]: [Fahare] Enabling Fahare v1.4.0
+[23:43:17] [Server thread/INFO]: [Fahare] fhr.log.info.missing-seed
+[23:43:17] [Server thread/WARN]: [Fahare] fhr.log.info.difficulty
+[23:43:17] [Server thread/INFO]: Loading 0 persistent chunks for level 'fahare:limbo'...
+[23:43:17] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:17] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:43:17] [Server thread/INFO]: [Fahare] Initial seed for fake overworld is -8574618469745743645
+[23:43:17] [Server thread/INFO]: Loading 0 persistent chunks for level 'fahare:overworld'...
+[23:43:17] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:17] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:43:18] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.11.0
+[23:43:18] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[23:43:18] [Server thread/INFO]: [ajLeaderboards] Loaded 0 boards
+[23:43:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ajlb [2.11.0]
+[23:43:18] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[23:43:18] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.11.0 by ajgeiss0702 enabled!
+[23:43:18] [Server thread/INFO]: [FoxPapiSkriptExpansion] Enabling FoxPapiSkriptExpansion v1.0
+[23:43:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skript [1.0]
+[23:43:18] [Server thread/INFO]: [FoxPapiSkriptExpansion] FoxPapiSkriptExpansion registered with PlaceholderAPI.
+[23:43:18] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.79.2
+[23:43:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.79.2]
+[23:43:19] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.79.2
+[23:43:19] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[23:43:19] [Server thread/INFO]: [Chunky] Enabling Chunky v1.5.3
+[23:43:19] [Server thread/INFO]: [spark] Starting background profiler...
+[23:43:19] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[23:43:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:43:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:43:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:43:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/fahare:limbo
+[23:43:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/fahare:overworld
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:43:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:43:19] [Server thread/INFO]: Running delayed init tasks
+[23:43:19] [Server thread/INFO]: [Skript] Loading variables...
+[23:43:19] [Server thread/INFO]: [Skript] Loaded 7 variables in 0.0 seconds
+[23:43:20] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[23:43:20] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 3 structures in 0.33 seconds
+[23:43:20] [Server thread/INFO]: [Skript] Finished loading.
+[23:43:20] [Server thread/INFO]: Done (20.325s)! For help, type "help"
+[23:43:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[23:43:20] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: You are running the latest build for your Minecraft version (26.1.2)
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: However, you are 2 release(s) behind the latest stable release (26.2)!
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: It is recommended that you update as soon as possible
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: https://papermc.io/downloads/paper
+[23:43:20] [Paper Async Task Handler Thread - 1/WARN]: *************************************************************************************
+[23:43:21] [pool-20-thread-1/INFO]: [ajLeaderboards] You are up to date! (2.11.0)
+[23:43:24] [User Authenticator #0/INFO]: UUID of player Joakingx is 9d2392b8-2623-39d4-825f-2d25e5f54a32
+[23:43:26] [Server thread/INFO]: Joakingx joined the game
+[23:43:26] [User Authenticator #1/INFO]: UUID of player ArenBjornViggo is 7a0a766a-bad4-3472-b072-b0a09150ffd9
+[23:43:26] [Server thread/INFO]: Joakingx[/127.158.44.2:54213] logged in with entity id 23 at ([minecraft:the_nether]232.30000001192093, 54.579698543676116, 159.4649614541538)
+[23:43:29] [Server thread/INFO]: ArenBjornViggo joined the game
+[23:43:29] [Server thread/INFO]: ArenBjornViggo[/127.120.33.164:39091] logged in with entity id 107 at ([minecraft:the_nether]199.50929128858675, 55.0, 181.52175668672677)
+[23:43:36] [Server thread/INFO]: ArenBjornViggo suffocated in a wall
+[23:43:38] [Server thread/INFO]: [Fahare] Seed for world_nether is 6598771292596327266
+[23:43:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[23:43:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[23:43:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[23:43:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[23:43:38] [Server thread/INFO]: [Fahare] Deleting folder ./world/dimensions/minecraft/the_nether
+[23:43:38] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_nether'...
+[23:43:39] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[23:43:39] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:39] [Server thread/INFO]: Prepared spawn area in 621 ms
+[23:43:39] [Server thread/INFO]: Regenerated world_nether
+[23:43:39] [Server thread/INFO]: [Fahare] Seed for world_the_end is -4516069927170052214
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[23:43:39] [Server thread/INFO]: [Fahare] Deleting folder ./world/dimensions/minecraft/the_end
+[23:43:39] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_end'...
+[23:43:39] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[23:43:39] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:39] [Server thread/INFO]: Prepared spawn area in 233 ms
+[23:43:39] [Server thread/INFO]: Regenerated world_the_end
+[23:43:39] [Server thread/INFO]: [Fahare] Seed for fahare_overworld is 1915011151168142610
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'fahare:overworld'
+[23:43:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'fahare:overworld'
+[23:43:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'fahare:overworld'
+[23:43:40] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'fahare:overworld'
+[23:43:40] [Server thread/INFO]: [Fahare] Deleting folder ./world/dimensions/fahare/overworld
+[23:43:40] [Server thread/INFO]: Selecting spawn point for level 'fahare:overworld'...
+[23:43:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 26.1.2-74-e4e17fc (MC: 26.1.2) ---
+[23:43:49] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[23:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:43:49] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[23:43:49] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[23:43:49] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( 0,0) in 'fahare:overworld']
+[23:43:49] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=fahare:overworld, chunkX=0, chunkZ=0, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=16, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[23:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:43:49] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[23:43:49] [Paper Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: false | State: RUNNABLE
+[23:43:49] [Paper Watchdog Thread/ERROR]: 	Stack:
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.4/java.lang.Thread.yield0(Native Method)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.4/java.lang.Thread.yield(Thread.java:462)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:201)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:192)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:119)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:153)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:316)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:974)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getOverworldRespawnPos(PlayerSpawnFinder.java:150)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerSpawnFinder.getSpawnPosInChunk(PlayerSpawnFinder.java:185)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.setInitialSpawn(MinecraftServer.java:873)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.initWorld(MinecraftServer.java:796)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1306)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:828)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:605)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		Fahare-1.4.0.jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:349)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		Fahare-1.4.0.jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$1(Fahare.java:364)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		Fahare-1.4.0.jar//dev.qixils.fahare.Fahare$$Lambda/0x00000000770e1b18.accept(Unknown Source)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.threadedregions.scheduler.FoliaGlobalRegionScheduler$GlobalScheduledTask.run(FoliaGlobalRegionScheduler.java:178)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.threadedregions.scheduler.FoliaGlobalRegionScheduler.tick(FoliaGlobalRegionScheduler.java:36)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1795)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1646)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:444)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1704)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1374)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000000076053980.run(Unknown Source)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.4/java.lang.Thread.runWith(Thread.java:1487)
+[23:43:49] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.4/java.lang.Thread.run(Thread.java:1474)
+[23:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:43:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[23:43:49] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:43:50] [Server thread/INFO]: Loading 0 persistent chunks for level 'fahare:overworld'...
+[23:43:50] [Server thread/INFO]: Preparing spawn area: 100%
+[23:43:50] [Server thread/INFO]: Prepared spawn area in 9739 ms
+[23:43:50] [Server thread/INFO]: Regenerated fahare_overworld
+[23:43:52] [Server thread/INFO]: ArenBjornViggo lost connection: Disconnected
+[23:43:53] [Server thread/INFO]: ArenBjornViggo left the game
+[23:45:07] [Server thread/INFO]: Stopping the server
+[23:45:07] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:214) ~[paper-26.1.2.jar:26.1.2-74-e4e17fc]
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:201) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:71) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$1.read(AbstractPty.java:58) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:124) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:157) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:56) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[23:45:07] [Server thread/INFO]: Stopping server
+[23:45:07] [Server thread/INFO]: [Chunky] Disabling Chunky v1.5.3
+[23:45:07] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.79.2
+[23:45:07] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.79.2
+[23:45:07] [Server thread/INFO]: [FoxPapiSkriptExpansion] Disabling FoxPapiSkriptExpansion v1.0
+[23:45:07] [Server thread/INFO]: [ajLeaderboards] Disabling ajLeaderboards v2.11.0
+[23:45:07] [pool-26-thread-1/INFO]: [ajLeaderboards] Shutting down cache method..
+[23:45:07] [pool-26-thread-1/INFO]: [ajLeaderboards] Cache method shut down
+[23:45:07] [Server thread/INFO]: [ajLeaderboards] Killing remaining workers
+[23:45:07] [Server thread/INFO]: [ajLeaderboards] Remaining workers killed
+[23:45:07] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.11.0 disabled.
+[23:45:07] [Server thread/INFO]: [Fahare] Disabling Fahare v1.4.0
+[23:45:07] [Server thread/INFO]: [TAB] Disabling TAB v6.1.3
+[23:45:07] [Server thread/INFO]: [TAB] Disabled in 1ms
+[23:45:07] [Server thread/INFO]: [Skript] Disabling Skript v2.16.2
+[23:45:07] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.12.3
+[23:45:07] [Server thread/INFO]: Saving players
+[23:45:07] [Server thread/INFO]: Joakingx lost connection: Server closed
+[23:45:07] [Server thread/INFO]: Joakingx left the game
+[23:45:07] [Server thread/INFO]: Saving worlds
+[23:45:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[23:45:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/fahare:limbo
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'fahare:limbo'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'fahare:limbo'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'fahare:limbo'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'fahare:limbo' in 0.00s
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'fahare:limbo'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'fahare:limbo'
+[23:45:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[23:45:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[23:45:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[23:45:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/fahare:overworld
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'fahare:overworld'
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'fahare:overworld'
+[23:45:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'fahare:overworld'
+[23:45:09] [Server thread/INFO]: [ChunkHolderManager] Saved 2209 block chunks, 625 entity chunks, 4 poi chunks in world 'fahare:overworld' in 1.94s
+[23:45:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'fahare:overworld'
+[23:45:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'fahare:overworld'
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:45:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:45:09] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:45:09] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:45:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:45:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

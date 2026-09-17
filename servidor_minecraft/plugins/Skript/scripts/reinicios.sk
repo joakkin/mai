@@ -1,0 +1,34 @@
+variables:
+    {reinicios} = 0
+    {top_player} = "Nadie"
+    {top_deaths} = 0
+
+on death:
+    if victim is a player:
+        # Suma 1 al total de reinicios globales
+        add 1 to {reinicios}
+        
+        # Registra la muerte del jugador para el Top
+        set {_uuid} to uuid of victim
+        set {_name} to "%victim%"
+        
+        add 1 to {muertes::%{_uuid}%}
+        set {pname::%{_uuid}%} to {_name}
+        
+        # Calcula automáticamente quién va perdiendo (Top 1)
+        set {_max} to -1
+        loop {muertes::*}:
+            if loop-value > {_max}:
+                set {_max} to loop-value
+                set {top_player} to {pname::%loop-index%}
+                set {top_deaths} to loop-value
+
+command /resetmochilarda:
+    permission: op
+    trigger:
+        delete {muertes::*}
+        delete {pname::*}
+        set {reinicios} to 0
+        set {top_player} to "Nadie"
+        set {top_deaths} to 0
+        send "&a¡Se han reiniciado los reinicios y el Top Mochilarda!" to sender
