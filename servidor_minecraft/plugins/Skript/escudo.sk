@@ -1,0 +1,18 @@
+on join:
+    # Activa un escudo invisible para el jugador que acaba de entrar
+    set {escudo::%uuid of player%} to true
+    
+    # Le da 10 segundos para que el mapa cargue por completo
+    wait 10 seconds
+    
+    # Desactiva el escudo y manda un mensaje (opcional)
+    delete {escudo::%uuid of player%}
+    send "&aTu escudo de conexión ha expirado. ¡Cuidado!" to player
+
+on damage:
+    # Si el jugador recibe daño (ahogamiento, asfixia, mobs, caída)
+    if victim is a player:
+        # Y su escudo está activo...
+        if {escudo::%uuid of victim%} is set:
+            # Cancela el daño por completo
+            cancel event
